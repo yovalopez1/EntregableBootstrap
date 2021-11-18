@@ -1,0 +1,27 @@
+
+@media screen and (max-width:360px) {
+    .card{
+        display: block;
+        margin: auto;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .card{
+        display: block;
+        margin: auto;
+    }
+}
+
+p{
+    text-align: justify;
+}
+
+#title{
+    color: rgb(219, 219, 219);
+    padding-top: 2%;
+}
+
+#footer{
+    border-radius: 0px;
+}
